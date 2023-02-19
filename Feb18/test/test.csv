@@ -1,0 +1,85 @@
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","ModeWithoutHardLink","VersionInfo","BaseName","ResolvedTarget","Target","LinkType","Length","DirectoryName","Directory","IsReadOnly","FullName","Extension","Name","Exists","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","LinkTarget","UnixFileMode","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\and.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","and.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\and.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","and","C:\Users\mryoyo\Desktop\test\and.txt",,,"0","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\and.txt",".txt","and.txt","True","2/18/2023 3:51:51 PM","2/18/2023 11:51:51 PM","2/18/2023 3:51:51 PM","2/18/2023 11:51:51 PM","2/18/2023 3:51:51 PM","2/18/2023 11:51:51 PM",,"-1","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\not.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","not.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\not.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","not","C:\Users\mryoyo\Desktop\test\not.txt",,,"0","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\not.txt",".txt","not.txt","True","2/18/2023 3:51:47 PM","2/18/2023 11:51:47 PM","2/18/2023 3:51:47 PM","2/18/2023 11:51:47 PM","2/18/2023 3:51:47 PM","2/18/2023 11:51:47 PM",,"-1","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\or.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","or.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\or.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","or","C:\Users\mryoyo\Desktop\test\or.txt",,,"0","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\or.txt",".txt","or.txt","True","2/18/2023 3:51:54 PM","2/18/2023 11:51:54 PM","2/18/2023 3:51:54 PM","2/18/2023 11:51:54 PM","2/18/2023 3:51:54 PM","2/18/2023 11:51:54 PM",,"-1","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\test.csv","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","test.csv","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\test.csv
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","test","C:\Users\mryoyo\Desktop\test\test.csv",,,"0","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\test.csv",".csv","test.csv","True","2/18/2023 4:00:43 PM","2/19/2023 12:00:43 AM","2/18/2023 4:00:47 PM","2/19/2023 12:00:47 AM","2/18/2023 4:00:47 PM","2/19/2023 12:00:47 AM",,"-1","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\test.txt","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","test.txt","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\test.txt
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","test","C:\Users\mryoyo\Desktop\test\test.txt",,,"0","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\test.txt",".txt","test.txt","True","2/18/2023 3:47:12 PM","2/18/2023 11:47:12 PM","2/18/2023 3:47:12 PM","2/18/2023 11:47:12 PM","2/18/2023 3:47:12 PM","2/18/2023 11:47:12 PM",,"-1","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test\testlist.html","Microsoft.PowerShell.Core\FileSystem::C:\Users\mryoyo\Desktop\test","testlist.html","C","Microsoft.PowerShell.Core\FileSystem","False","-a---","-a---","File:             C:\Users\mryoyo\Desktop\test\testlist.html
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","testlist","C:\Users\mryoyo\Desktop\test\testlist.html",,,"110","C:\Users\mryoyo\Desktop\test","C:\Users\mryoyo\Desktop\test","False","C:\Users\mryoyo\Desktop\test\testlist.html",".html","testlist.html","True","2/18/2023 3:59:10 PM","2/18/2023 11:59:10 PM","2/18/2023 3:59:11 PM","2/18/2023 11:59:11 PM","2/18/2023 3:59:10 PM","2/18/2023 11:59:10 PM",,"-1","Archive"
